@@ -8,3 +8,16 @@ This is a **course-based group project** completed as part of a graduate-level f
 - SABR model calibration
 - Swaption pricing using Black-76
 - Delta hedging and PnL comparison
+  
+## Project Structure
+Fixed-Income/
+├── processData.py   # Data cleaning and preprocessing
+├── class2.py        # Model calibration and risk calculations
+├── group.py         # Portfolio construction
+├── Hedged.py        # Hedging strategy and PnL analysis
+├── plot.py          # Visualization
+
+## Tech Stack
+- Python (NumPy, Pandas, Matplotlib)
+- Time-series analysis
+- Risk modeling & reporting
