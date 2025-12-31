@@ -10,7 +10,7 @@ This is a **course-based group project** completed as a part of fixed income cou
 - Delta hedging and PnL comparison
 
 ## Project Structure
-···text
+``` text
 Fixed-Income/
 ├── processData.py   # Data cleaning and preprocessing
 ├── class2.py        # Model calibration and risk calculations
