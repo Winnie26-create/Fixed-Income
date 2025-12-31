@@ -1,7 +1,7 @@
 
 # Fixed Income Risk Analysis
 
-This is a **course-based group project** completed as a part of fixed income course. The project analyzes fixed income portfolio returns driven by **credit spread risk** and **interest rate risk**, and evaluates **delta hedging effectiveness** under different rebalancing frequencies.
+This is a **course-based group project** completed as a part of a fixed income course. The project analyzes fixed income portfolio returns driven by **credit spread risk** and **interest rate risk**, and evaluates **delta hedging effectiveness** under different rebalancing frequencies.
 
 ## Key Features
 - Credit spread & interest rate risk analysis
