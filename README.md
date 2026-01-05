@@ -36,14 +36,13 @@ The analysis applies quantitative modeling and scenario-based evaluation to supp
 
 ## Project Structure
 
-```text
-Fixed-Income/
-├── processData.py   # Data cleaning and preprocessing
-├── class2.py        # Model calibration and risk calculations
-├── group.py         # Portfolio construction
-├── Hedged.py        # Hedging strategy and PnL analysis
-├── plot.py          # Visualization
-```
+**Fixed-Income/**
+- processData.py — Data cleaning and preprocessing  
+- class2.py — Model calibration and risk calculations  
+- group.py — Portfolio construction  
+- Hedged.py — Hedging strategy and PnL analysis  
+- plot.py — Visualization  
+
 ---
 ## Tech Stack
 
