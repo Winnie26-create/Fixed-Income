@@ -4,7 +4,7 @@
 This project analyzes fixed income portfolio performance under varying **interest rate and credit spread environments**, with a focus on identifying key risk drivers and evaluating hedging effectiveness.  
 The analysis applies quantitative modeling and scenario-based evaluation to support **risk-aware portfolio decision-making**.
 
-*This project was completed as part of a graduate-level fixed income course and focuses on translating quantitative models into interpretable risk insights.*
+*This project was completed as a group project for a graduate-level fixed income course and focuses on translating quantitative models into interpretable risk insights.*
 
 ---
 
